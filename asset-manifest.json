@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/form-demo/login/static/css/main.93fdc2ab.chunk.css",
+    "main.js": "/form-demo/login/static/js/main.fe7c368c.chunk.js",
+    "main.js.map": "/form-demo/login/static/js/main.fe7c368c.chunk.js.map",
+    "runtime-main.js": "/form-demo/login/static/js/runtime-main.4d16179c.js",
+    "runtime-main.js.map": "/form-demo/login/static/js/runtime-main.4d16179c.js.map",
+    "static/js/2.c17141ac.chunk.js": "/form-demo/login/static/js/2.c17141ac.chunk.js",
+    "static/js/2.c17141ac.chunk.js.map": "/form-demo/login/static/js/2.c17141ac.chunk.js.map",
+    "index.html": "/form-demo/login/index.html",
+    "static/css/main.93fdc2ab.chunk.css.map": "/form-demo/login/static/css/main.93fdc2ab.chunk.css.map",
+    "static/js/2.c17141ac.chunk.js.LICENSE.txt": "/form-demo/login/static/js/2.c17141ac.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/form-demo/login/static/media/Roboto-Regular.03523cf5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d16179c.js",
+    "static/js/2.c17141ac.chunk.js",
+    "static/css/main.93fdc2ab.chunk.css",
+    "static/js/main.fe7c368c.chunk.js"
+  ]
+}
